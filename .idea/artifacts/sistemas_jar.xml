@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="sistemas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sistemas_jar</output-path>
+    <root id="archive" name="sistemas.jar">
+      <element id="module-output" name="sistemas" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Project/libraries/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Project/libraries/jfreechart-1.0.19.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
